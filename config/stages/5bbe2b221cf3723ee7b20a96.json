@@ -15,6 +15,7 @@
   "testFramework": "truffle_with_mocha",
   "title": "Self-Destruct",
   "validatedContract": "Countdown",
+  "validatedFileId": "5bbe2d861cf3723ee7b20a9c",
   "updatedAt": "2018-11-08T02:51:29.073Z",
   "createdAt": "2018-10-16T01:50:10.780Z",
   "abiValidations": "$$LOOKUP"

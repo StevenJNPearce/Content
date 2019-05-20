@@ -17,6 +17,7 @@
   "testFramework": "truffle_with_mocha",
   "title": "Stash Attack",
   "validatedContract": "Stash",
+  "validatedFileId": "5b2729e8d9f9970e8ed24191",
   "updatedAt": "2018-10-16T01:50:10.162Z",
   "createdAt": "2018-10-16T01:50:10.162Z",
   "abiValidations": "$$LOOKUP"

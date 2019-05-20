@@ -16,6 +16,7 @@
   "testFramework": "truffle_with_mocha",
   "title": "Voting Events",
   "validatedContract": "Voting",
+  "validatedFileId": "5b58fffbd9f997399b71e44a",
   "updatedAt": "2018-11-08T02:51:28.901Z",
   "createdAt": "2018-10-16T01:50:10.712Z",
   "abiValidations": "$$LOOKUP"

@@ -5,6 +5,7 @@
   "title": "Balancing Act",
   "position": 2,
   "validatedContract": "Token",
+  "validatedFileId": "5bb2d834d9f99705a60c6308",
   "languageVersion": "0.1.0b3",
   "language": "vyper",
   "testFramework": "truffle_with_mocha",

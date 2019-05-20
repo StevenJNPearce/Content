@@ -6,6 +6,7 @@
   "position": 10,
   "task": "$$LOOKUP",
   "validatedContract": "MultiSig",
+  "validatedFileId": "5bcfc074e6b0b0328e69567a",
   "languageVersion": "0.4.19",
   "language": "solidity",
   "testFramework": "truffle_with_mocha",

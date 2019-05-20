@@ -19,6 +19,7 @@
   "testFramework": "truffle_with_mocha",
   "title": "Crafting in Process",
   "validatedContract": "Marketplace",
+  "validatedFileId": "5ba1c61fe6b0b01133b453b7",
   "updatedAt": "2018-11-08T02:51:28.346Z",
   "createdAt": "2018-10-16T01:50:10.356Z",
   "abiValidations": "$$LOOKUP"

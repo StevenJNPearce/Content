@@ -7,6 +7,7 @@
   "task": "$$LOOKUP",
   "details": "$$LOOKUP",
   "validatedContract": "Token",
+  "validatedFileId": "5beb42f41cf372546bb7291c",
   "languageVersion": "0.4.19",
   "language": "solidity",
   "testFramework": "truffle_with_mocha",

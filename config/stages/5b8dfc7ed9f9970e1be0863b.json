@@ -15,6 +15,7 @@
   "testFramework": "truffle_with_mocha",
   "title": "Setting Up",
   "validatedContract": "Hackathon",
+  "validatedFileId": "5b8dfd0bd9f9970e1be0863e",
   "updatedAt": "2018-11-08T02:51:28.544Z",
   "createdAt": "2018-10-16T01:50:10.464Z",
   "abiValidations": "$$LOOKUP"

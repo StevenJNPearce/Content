@@ -5,6 +5,7 @@
   "title": "RSVP to Party",
   "position": 0,
   "validatedContract": "Party",
+  "validatedFileId": "5bcfefd61cf372e300ff2b7c",
   "languageVersion": "0.4.19",
   "language": "solidity",
   "testFramework": "truffle_with_mocha",

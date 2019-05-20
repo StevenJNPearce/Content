@@ -15,6 +15,7 @@
   "testFramework": "truffle_with_mocha",
   "title": "Top Rated Project",
   "validatedContract": "Hackathon",
+  "validatedFileId": "5bb40b70d9f997a89a01f6f1",
   "updatedAt": "2018-11-08T02:51:28.804Z",
   "createdAt": "2018-10-16T01:50:10.623Z",
   "abiValidations": "$$LOOKUP"

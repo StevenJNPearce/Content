@@ -17,6 +17,7 @@
   "testFramework": "truffle_with_mocha",
   "title": "Add To Exit Queue",
   "validatedContract": "Plasma",
+  "validatedFileId": "5be33d9ce6b0b02ef6f2ac06",
   "updatedAt": "2019-01-09T02:39:31.988Z",
   "createdAt": "2019-01-09T02:39:31.988Z",
   "abiValidations": "$$LOOKUP",

@@ -15,6 +15,7 @@
   "testFramework": "truffle_with_mocha",
   "title": "Require",
   "validatedContract": "EscrowContract",
+  "validatedFileId": "5adab204929d249e5faefb55",
   "updatedAt": "2018-10-16T01:50:10.652Z",
   "createdAt": "2018-10-16T01:50:10.652Z",
   "abiValidations": "$$LOOKUP"

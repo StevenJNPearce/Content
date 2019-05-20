@@ -15,6 +15,7 @@
   "testFramework": "truffle_with_mocha",
   "title": "Add Transactions",
   "validatedContract": "MultiSig",
+  "validatedFileId": "5bcfc074e6b0b0328e69567a",
   "updatedAt": "2018-11-08T02:51:29.166Z",
   "createdAt": "2018-10-28T17:41:09.726Z",
   "abiValidations": "$$LOOKUP"

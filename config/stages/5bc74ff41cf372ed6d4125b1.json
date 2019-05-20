@@ -7,6 +7,7 @@
   "task": "$$LOOKUP",
   "completionMessage": "$$LOOKUP",
   "validatedContract": "Voting",
+  "validatedFileId": "5bc7506a1cf372ed6d4125b7",
   "languageVersion": "0.4.19",
   "language": "solidity",
   "testFramework": "truffle_with_mocha",
