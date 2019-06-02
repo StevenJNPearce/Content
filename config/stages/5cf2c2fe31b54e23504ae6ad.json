@@ -1,0 +1,20 @@
+{
+  "type": "CodeStage",
+  "containerId": "5cf294b83f04d70bca214763",
+  "language": "javascript",
+  "title": "Getting Started",
+  "abiValidations": "$$LOOKUP",
+  "task": "$$LOOKUP",
+  "details": "$$LOOKUP",
+  "id": "5cf2c2fe31b54e23504ae6ad",
+  "languageVersion": "8.x/babel",
+  "testFramework": "mocha_bdd",
+  "codeFileIds": [
+    "5cf2c2fe31b54e23504ae6ae",
+    "5cf2c2fe31b54e23504ae6af",
+    "5cf2c2fe31b54e23504ae6b0"
+  ],
+  "position": 0,
+  "youtubeId": null,
+  "src": null
+}

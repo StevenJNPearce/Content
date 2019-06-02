@@ -1,0 +1,21 @@
+{
+  "type": "CodeStage",
+  "containerId": "5cf294b83f04d70bca214763",
+  "completionMessage": "$$LOOKUP",
+  "title": "Contracts",
+  "abiValidations": "$$LOOKUP",
+  "task": "$$LOOKUP",
+  "details": "$$LOOKUP",
+  "position": 1,
+  "id": "5cf2d4edc2841130514ff4bd",
+  "codeFileIds": [
+    "5cf2c2fe31b54e23504ae6b0",
+    "5cf3ce5841d18228170d6576",
+    "5cf2c2fe31b54e23504ae6af"
+  ],
+  "language": "javascript",
+  "testFramework": "truffle_with_mocha",
+  "languageVersion": "10.x",
+  "youtubeId": null,
+  "src": null
+}

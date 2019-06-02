@@ -1,0 +1,9 @@
+{
+  "title": "Intro to ethers.js",
+  "id": "5cf294b83f04d70bca214762",
+  "containerType": "Lesson",
+  "description": "Learn to use the ethers.js library to interact with the Ethereum blockchain and its ecosystem.",
+  "thumbnailUrl": null,
+  "productionReady": true,
+  "estimatedTime": 30
+}

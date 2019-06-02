@@ -1,0 +1,17 @@
+{
+  "executablePath": "deployingAContract.js",
+  "name": "deployingAContract.js",
+  "executable": true,
+  "hasProgress": true,
+  "mode": "javascript",
+  "readOnly": false,
+  "testFixture": false,
+  "visible": true,
+  "stageContainerId": "5cf294b83f04d70bca214763",
+  "codeStageIds": [
+    "5cf2d4edc2841130514ff4bd"
+  ],
+  "id": "5cf3ce5841d18228170d6576",
+  "initialCode": "$$LOOKUP",
+  "fileLocation": null
+}
