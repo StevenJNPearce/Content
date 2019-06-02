@@ -6,7 +6,7 @@
   "abiValidations": "$$LOOKUP",
   "task": "$$LOOKUP",
   "details": "$$LOOKUP",
-  "position": 1,
+  "position": 0,
   "id": "5cf2d4edc2841130514ff4bd",
   "codeFileIds": [
     "5cf2c2fe31b54e23504ae6b0",
